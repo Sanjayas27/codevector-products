@@ -1,7 +1,7 @@
 # ProductVault — CodeVector Take-Home
 
-Live demo: `<your-render-url>`  
-API: `<your-render-url>/api/products`
+Live demo: `< https://thunderous-jelly-3607d5.netlify.app>`  
+API: ` https://codevector-products-1wp8.onrender.com/api/products`
 
 ---
 
